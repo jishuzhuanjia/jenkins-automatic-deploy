@@ -16,10 +16,10 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloController {
 
     /**
-     * abcdefghijklmnopqrstuv
+     * abcdefghijklmnopqrstuvw
      */
     @RequestMapping("hello")
     public String test(){
-        return "恭喜你! 你已经实现了自动化部署了v";
+        return "恭喜你! 你已经实现了自动化部署了w";
     }
 }
