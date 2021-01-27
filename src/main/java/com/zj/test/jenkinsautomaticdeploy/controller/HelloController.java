@@ -20,6 +20,6 @@ public class HelloController {
      */
     @RequestMapping("hello")
     public String test(){
-        return "恭喜你! 你已经实现了自动化部署了.";
+        return "恭喜你! 你已经实现了自动化部署了";
     }
 }
