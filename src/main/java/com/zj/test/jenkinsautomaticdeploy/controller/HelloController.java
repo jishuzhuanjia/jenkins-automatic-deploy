@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloController {
 
     /**
-     * ab
+     * abc
      */
     @RequestMapping("hello")
     public String test(){
